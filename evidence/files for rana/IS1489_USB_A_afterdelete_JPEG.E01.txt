@@ -1,0 +1,33 @@
+IS1489 Autopsy Project - Evidence image hash log
+================================================
+Image file:        IS1489_USB_A_afterdelete_JPEG.E01  (EnCase 6 / EWF format)
+Case Number:       IS1489
+Evidence Number:   003
+Description:       USB after delete (JPEG photos)
+Examiner:          Layan
+Created:           2026-11-14 (Asia/Riyadh)
+
+Source
+  Type:            512 MB FAT32 volume, label "EVIDENCE"
+  Bytes per sector: 512
+  Sector count:    1,048,576
+
+How it was made
+  Rebuilt from the JPEG copies of the photos in the GitHub repo (evidence/),
+  because Autopsy 4.23.1's Picture Analyzer cannot read the original iPhone
+  HEIC photos. Built in Linux with mkfs.fat + mtools, imaged with
+  ewfacquire (libewf). FTK Imager was NOT used for these two images.
+  Steps: format -> copy 8 JPEG photos + 3 test files -> delete all
+  -> image A -> quick format -> image B.
+
+Files placed on the volume (all deleted before imaging)
+  IMG_3791.jpeg IMG_3792.jpeg IMG_3793.jpeg IMG_3794.jpeg
+  IMG_3795.jpeg IMG_3796.jpeg IMG_3798.jpeg IMG_3799.jpeg  (iPhone 15, GPS in EXIF)
+  holiday_photo.jpg  MD5 c83acc0a219ac1852fd8bf74ae022936
+  secret_plans.zip   MD5 ced88f72da5f18bdb87c8ba30d75e3bf
+  project_archive.zip MD5 0812ae9bda5b2474623c13b09bcbe86c
+
+Computed hashes (of the volume data)
+  MD5:   72e72d50ebbfd2ee5c70180d15427fab
+  SHA1:  933645e8c5e82057d6d3f95f4b770f7ffba18c96
+Verification (ewfverify): MD5 and SHA1 verified
