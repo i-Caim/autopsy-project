@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Autopsy Forensic Report KML</name>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/camera-icon-16.png]]></href>
+      </Icon>
+      <name>EXIF Metadata</name>
+      <Placemark>
+        <name>IMG_3799.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3799.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3799.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:05:49+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814386111111112&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69173055555555&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;662.3820638820639&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3799.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:05:49+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69173055555555,24.814386111111112,662.3820638820639</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3798.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3798.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3798.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:05:01+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814344444444444&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.691713888888884&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;660.3236903831119&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3798.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:05:01+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.691713888888884,24.814344444444444,660.3236903831119</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3796.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3796.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3796.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:01:37+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81356388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69147777777778&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.9185888738127&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3796.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:01:37+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69147777777778,24.81356388888889,659.9185888738127</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3795.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3795.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3795.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:00:58+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81365277777778&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.691341666666666&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;660.1203599550056&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3795.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:00:58+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.691341666666666,24.81365277777778,660.1203599550056</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3793.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3793.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3793.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:41:36+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814230555555557&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69062777777778&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.3228200371058&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3793.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:41:36+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69062777777778,24.814230555555557,659.3228200371058</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3794.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3794.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3794.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:59:50+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81381388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.690730555555554&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.5099375354912&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3794.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:59:50+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.690730555555554,24.81381388888889,659.5099375354912</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3792.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3792.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3792.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:39:50+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81466388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69088333333333&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.797182349814&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3792.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:39:50+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69088333333333,24.81466388888889,659.797182349814</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>IMG_3791.jpeg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='IMG_3791.jpeg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;IMG_3791.jpeg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T10:20:43+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.813972222222223&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69058333333333&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.7701856280606&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_A_afterdelete_JPEG.E01\IMG_3791.jpeg</description>
+        <TimeStamp>
+          <when>2026-11-12T10:20:43+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69058333333333,24.813972222222223,659.7701856280606</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0084328.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0084328.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0084328.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:05:49+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814386111111112&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69173055555555&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;662.3820638820639&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0084328.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:05:49+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69173055555555,24.814386111111112,662.3820638820639</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0000000.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0000000.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0000000.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T10:20:43+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.813972222222223&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69058333333333&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.7701856280606&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0000000.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T10:20:43+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69058333333333,24.813972222222223,659.7701856280606</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0072272.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0072272.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0072272.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:05:01+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814344444444444&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.691713888888884&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;660.3236903831119&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0072272.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:05:01+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.691713888888884,24.814344444444444,660.3236903831119</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0058040.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0058040.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0058040.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:01:37+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81356388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69147777777778&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.9185888738127&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0058040.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:01:37+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69147777777778,24.81356388888889,659.9185888738127</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0048368.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0048368.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0048368.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T12:00:58+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81365277777778&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.691341666666666&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;660.1203599550056&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0048368.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T12:00:58+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.691341666666666,24.81365277777778,660.1203599550056</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0036704.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0036704.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0036704.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:59:50+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81381388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.690730555555554&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.5099375354912&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0036704.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:59:50+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.690730555555554,24.81381388888889,659.5099375354912</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0025656.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0025656.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0025656.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:41:36+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.814230555555557&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69062777777778&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.3228200371058&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0025656.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:41:36+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69062777777778,24.814230555555557,659.3228200371058</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+      <Placemark>
+        <name>f0011936.jpg</name>
+        <styleUrl>style.kml#redFeature</styleUrl>
+        <description>&lt;img src='f0011936.jpg' width='400'/&gt;&lt;h3&gt;EXIF Metadata With Location&lt;/h3&gt;&lt;b&gt;Name: &lt;/b&gt;f0011936.jpg&lt;br&gt;&lt;b&gt;Timestamp: &lt;/b&gt;2026-11-12T11:39:50+03&lt;br&gt;&lt;b&gt;Latitude: &lt;/b&gt;24.81466388888889&lt;br&gt;&lt;b&gt;Longitude: &lt;/b&gt;46.69088333333333&lt;br&gt;&lt;b&gt;Altitude: &lt;/b&gt;659.797182349814&lt;br&gt;&lt;b&gt;Device Make: &lt;/b&gt;Apple&lt;br&gt;&lt;b&gt;Device Model: &lt;/b&gt;iPhone 15&lt;br&gt;&lt;b&gt;Source Path:&lt;/b&gt; \IS1489_USB_B_afterformat_JPEG.E01\$CarvedFiles\1\f0011936.jpg</description>
+        <TimeStamp>
+          <when>2026-11-12T11:39:50+03</when>
+        </TimeStamp>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>46.69088333333333,24.81466388888889,659.797182349814</coordinates>
+        </Point>
+        <snippet>24.81, 46.69</snippet>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gpsfav.png]]></href>
+      </Icon>
+      <name>GPS Bookmarks</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-lastlocation.png]]></href>
+      </Icon>
+      <name>GPS Last Known Location</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-trackpoint.png]]></href>
+      </Icon>
+      <name>GPS Routes</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-search.png]]></href>
+      </Icon>
+      <name>GPS Searches</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-trackpoint.png]]></href>
+      </Icon>
+      <name>GPS Trackpoints</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-trackpoint.png]]></href>
+      </Icon>
+      <name>GPS Tracks</name>
+    </Folder>
+    <Folder>
+      <Icon>
+        <href><![CDATA[https://raw.githubusercontent.com/sleuthkit/autopsy/develop/Core/src/org/sleuthkit/autopsy/images/gps-area.png]]></href>
+      </Icon>
+      <name>GPS Areas</name>
+    </Folder>
+  </Document>
+</kml>
